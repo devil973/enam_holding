@@ -1,0 +1,6 @@
+yfinance
+requests
+beautifulsoup4
+pymupdf
+anthropic
+pytest
